@@ -91,9 +91,3 @@ The models achieve varying degrees of accuracy in predicting mental health treat
 ## Author
 [Pratheek Nistala](https://pratheek.tech)
 
-## License
-[Include appropriate license information]
-
-## Acknowledgments
-- 2014 Mental Health in Tech Survey contributors
-
