@@ -12,6 +12,7 @@ This project analyzes mental health trends and employer attitudes toward mental 
 
 ## Project Structure
 File Structure - 
+```
 MindFulTech/
 ├── data/
 │   ├── raw/
@@ -25,6 +26,7 @@ MindFulTech/
 │   └── 03_model_evaluation.ipynb
 ├── README.md
 └── requirements.txt
+```
 The project is organized into two main notebooks:
 
 ### 1. Data Processing (01_data_processing.ipynb)
